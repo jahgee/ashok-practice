@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>fashionshop</name>
   <url>http://maven.apache.org</url>
-  
+  <date>27.07.2023</date>
   <properties>
 	<sonar.host.url>http://44.210.130.8:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
